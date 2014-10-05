@@ -8,6 +8,8 @@ Default Usage
 =============
 The default style uses a 5-star rating, as shown below.
 
+![Default Bar Image](../screenshots/screenshots/default_bar.png?raw=true)
+
 To use it, just include SimpleRatingBar in your layout, and call `setRating(int)` or `setRating(double)`  
 
 It's that easy!
@@ -56,6 +58,8 @@ color. Color of unfilled rating icon. Default is gray.
 
 Custom XML Example
 ==================
+![Heart Bar Image](../screenshots/screenshots/heart_bar.png?raw=true)
+
 ```xml
 <!-- layout xml -->
 <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
