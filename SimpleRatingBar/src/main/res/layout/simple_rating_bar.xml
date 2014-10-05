@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content">
+    <TextView
+            android:id="@+id/ratingNumber"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:paddingRight="5dp"/>
+
+    <TextView
+            android:id="@+id/filledRating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    <TextView
+            android:id="@+id/unfilledRating"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+</LinearLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+            style="@style/Title"
+            android:text="@string/defaultBar"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/defaultBar0"
+            style="@style/RatingBar"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/defaultBar1"
+            style="@style/RatingBar"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/defaultBar2"
+            style="@style/RatingBar"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/defaultBar3"
+            style="@style/RatingBar"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/defaultBar4"
+            style="@style/RatingBar"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/defaultBar5"
+            style="@style/RatingBar"/>
+</merge>

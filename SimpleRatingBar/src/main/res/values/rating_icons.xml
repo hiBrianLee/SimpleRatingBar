@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ratingIconStarFilled">★</string>
+    <string name="ratingIconStarOutline">☆</string>
+
+    <string name="ratingIconHeartFilled">♥</string>
+    <string name="ratingIconHeartOutline">♡</string>
+
+    <string name="ratingIconCircleFilled">●</string>
+    <string name="ratingIconCircleOutline">○</string>
+
+    <string name="ratingIconDollar">$</string>
+    <string name="ratingIconPound">£</string>
+    <string name="ratingIconEuro">€</string>
+
+    <string name="ratingIconMusic">♪</string>
+</resources>

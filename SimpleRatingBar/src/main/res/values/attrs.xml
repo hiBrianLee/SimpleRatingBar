@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleRatingBar">
+        <attr name="SRB_hideRatingNumber" format="boolean"/>
+        <attr name="SRB_size" format="dimension"/>
+        <attr name="SRB_maxRating" format="integer"/>
+        <attr name="SRB_filledIcon" format="string"/>
+        <attr name="SRB_unfilledIcon" format="string"/>
+        <attr name="SRB_textColor" format="color"/>
+        <attr name="SRB_filledIconColor" format="color"/>
+        <attr name="SRB_unfilledIconColor" format="color"/>
+    </declare-styleable>
+</resources>

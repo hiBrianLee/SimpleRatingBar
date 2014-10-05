@@ -1,0 +1,50 @@
+<resources>
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light"/>
+
+    <style name="Title">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+
+    <style name="RatingBar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="RatingBar.Heart">
+        <item name="SRB_maxRating">3</item>
+        <item name="SRB_textColor">@color/black</item>
+        <item name="SRB_filledIconColor">@color/red</item>
+        <item name="SRB_unfilledIconColor">@color/red</item>
+        <item name="SRB_filledIcon">@string/ratingIconHeartFilled</item>
+        <item name="SRB_unfilledIcon">@string/ratingIconHeartOutline</item>
+    </style>
+
+    <style name="RatingBar.Circle">
+        <item name="SRB_size">20sp</item>
+        <item name="SRB_hideRatingNumber">true</item>
+        <item name="SRB_filledIconColor">@color/black</item>
+        <item name="SRB_unfilledIconColor">@color/black</item>
+        <item name="SRB_filledIcon">@string/ratingIconCircleFilled</item>
+        <item name="SRB_unfilledIcon">@string/ratingIconCircleOutline</item>
+    </style>
+
+    <style name="RatingBar.Dollar">
+        <item name="SRB_maxRating">4</item>
+        <item name="SRB_hideRatingNumber">true</item>
+        <item name="SRB_filledIconColor">@color/green</item>
+        <item name="SRB_filledIcon">@string/ratingIconDollar</item>
+    </style>
+
+
+    <style name="RatingBar.Music">
+        <item name="SRB_size">30sp</item>
+        <item name="SRB_maxRating">3</item>
+        <item name="SRB_filledIconColor">@color/black</item>
+        <item name="SRB_filledIcon">@string/ratingIconMusic</item>
+    </style>
+</resources>

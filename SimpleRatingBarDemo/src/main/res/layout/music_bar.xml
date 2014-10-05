@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+            style="@style/Title"
+            android:text="@string/musicBar"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/musicBar0"
+            style="@style/RatingBar.Music"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/musicBar1"
+            style="@style/RatingBar.Music"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/musicBar2"
+            style="@style/RatingBar.Music"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/musicBar3"
+            style="@style/RatingBar.Music"/>
+</merge>

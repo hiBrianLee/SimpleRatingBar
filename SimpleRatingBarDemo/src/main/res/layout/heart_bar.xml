@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+            style="@style/Title"
+            android:text="@string/heartBar"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/heartBar0"
+            style="@style/RatingBar.Heart"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/heartBar1"
+            style="@style/RatingBar.Heart"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/heartBar2"
+            style="@style/RatingBar.Heart"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/heartBar3"
+            style="@style/RatingBar.Heart"/>
+</merge>

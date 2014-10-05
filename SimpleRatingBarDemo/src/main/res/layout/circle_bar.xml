@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+            style="@style/Title"
+            android:text="@string/circleBar"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/circleBar0"
+            style="@style/RatingBar.Circle"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/circleBar1"
+            style="@style/RatingBar.Circle"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/circleBar2"
+            style="@style/RatingBar.Circle"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/circleBar3"
+            style="@style/RatingBar.Circle"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/circleBar4"
+            style="@style/RatingBar.Circle"/>
+
+    <com.tigerpenguin.widget.simpleratingbar.SimpleRatingBar
+            android:id="@+id/circleBar5"
+            style="@style/RatingBar.Circle"/>
+</merge>

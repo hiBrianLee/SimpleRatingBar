@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleRatingBarDemo</string>
+    <string name="musicBar">Music Bar</string>
+    <string name="circleBar">Circle Bar</string>
+    <string name="defaultBar">Default Bar</string>
+    <string name="dollarBar">Dollar Bar</string>
+    <string name="heartBar">Heart Bar</string>
+</resources>
