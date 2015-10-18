@@ -110,7 +110,7 @@ Go to `File` -> `Import Project` and import the 'settings.gradle' file.
 Say Hi
 ======
 If you want to say hi, you can find me on twitter! =)  
-https://twitter.com/tig3rpenguin
+https://twitter.com/hiBrianLee
 
 License
 =======
